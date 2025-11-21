@@ -1,4 +1,4 @@
-## Virtual Private Cloud (VPC)
+## Ex 4: Virtual Private Cloud (VPC)
 
 ## Name: SOWJANYA K
 ## Register Number: 212223090023
